@@ -1,0 +1,12 @@
+{
+  "$schema": "https://biomejs.dev/schemas/2.6.5/schema.json",
+  "root": true,
+  "linter": {
+    "rules": {
+      "recommended": false,
+      "nursery": {
+        "noUselessTypeConversion": "error"
+      }
+    }
+  }
+}

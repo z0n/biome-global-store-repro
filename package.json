@@ -1,0 +1,12 @@
+{
+  "name": "biome-external-dependency-repro",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.17.0",
+  "scripts": {
+    "repro": "node scripts/reproduce.mjs"
+  },
+  "engines": {
+    "node": ">=24"
+  }
+}

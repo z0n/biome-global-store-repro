@@ -1,0 +1,13 @@
+{
+  "name": "consumer",
+  "private": true,
+  "type": "module",
+  "packageManager": "pnpm@12.17.0",
+  "dependencies": {
+    "react": "19.2.8"
+  },
+  "devDependencies": {
+    "@biomejs/biome": "2.6.5",
+    "@types/react": "19.2.9"
+  }
+}
